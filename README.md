@@ -1,6 +1,8 @@
 ### Hi there 👋
 Mi nombre es Paola Glez. Colli y estudié ingeniería agrícola en la ULL.
 
+![Flor](https://hips.hearstapps.com/hmg-prod/images/flower-meanings-orange-tulip-1671510677.jpg?crop=0.4444444444444444xw:1xh;center,top&resize=980:*)
+
 Actualmente estoy estudiando el Master de profesorado.
 
 🔭 I’m currently working on Tenerife
