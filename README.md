@@ -1,12 +1,11 @@
 ### Hi there 👋
+Mi nombre es Paola Glez. Colli y estudié ingeniería agrícola en la ULL.
+
+Actualmente estoy estudiando el Master de profesorado.
 
 <!--
 **Paolacolli/paolacolli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
-#Mi nombre es Paola Glez. Colli y estudié ingeniería agrícola en la ULL.
-
-#Actualmente estoy estudiando el Master de profesorado.
 
 Here are some ideas to get you started:
 
